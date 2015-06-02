@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <gradient
+        android:angle="0.0"
+        android:endColor="@color/content_bg"
+        android:startColor="@color/content_bg" />
+
+    <stroke
+        android:dashGap="0dp"
+        android:dashWidth="0dp"
+        android:width="1dp"
+        android:color="@color/content_bg" >
+    </stroke>
+
+    <!-- 描边 -->
+    <corners
+        android:bottomLeftRadius="2dp"
+        android:bottomRightRadius="2dp"
+        android:topLeftRadius="0dp"
+        android:topRightRadius="0dp" />
+    <!-- 设置圆角 -->
+
+
+    <!--
+             我就设置了一个固定的颜色"#c0000000"。android:angle="90"这个是设置颜色渐变方向，从上到下啊，
+        	从左到右啊，貌似只能90的倍数，也只有四个方向嘛。
+			<stroke ></stroke>,边框就是这个实现的。
+			dashWidth指的是边线的宽度 dashGap 指的是每条线之间的间距，（因为是边线是很多小横线组成的）。
+    -->
+
+</shape>

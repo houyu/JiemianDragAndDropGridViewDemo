@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- titlebar上的颜色 -->
+    <color name="nav_title_name">#FF000000</color>
+    <color name="nav_title_name_night">#FFD7D7D7</color>
+    <color name="content_title_bar_bg">#FFF2F2F2</color>
+    <color name="content_title_bar_bg_night">#FF222222</color>
+
+    <!-- 二级菜单上的颜色 -->
+    <color name="nav_sub_name_selected">#FFF12B15</color>
+    <color name="nav_sub_name_nomal">#FF3a3a3a</color>
+    <color name="nav_sub_name_selected_night">#FFC4C4C4</color>
+    <color name="nav_sub_name_nomal_night">#FF959595</color>
+
+    <!-- slidingmenu的配置 -->
+    <color name="slidmenu_item_press">#FF2C2C2C</color>
+    <color name="slidmenu_bg">#FF333333</color>
+    <color name="slidmenu_line">#FF2C2C2C</color>
+    <color name="set_bottom_bg">#F2F2F2</color>
+    <color name="set_bottom_bg_night">#3a3a3a</color>
+    <color name="set_sp_line">@color/set_bottom_bg</color>
+    <color name="set_sp_line_night">@color/set_bottom_bg_night</color>
+    
+    <!-- list 背景颜色 -->
+    <color name="list_bg">#FFFFFFFE</color>
+    <color name="list_bg_night">#FF3F3F3F</color>
+    
+    <color name="list_title_txt_color_push">#ff6b6b6b</color>
+    
+    <color name="list_title_txt_color_night">#ffb7b7b7</color>
+    <color name="list_summary_txt_color_night">#ffb3b3b3</color>
+    <color name="list_info_txt_color_night">#ff8a8a8a</color>
+        
+    <color name="list_title_txt_color">@color/nav_sub_name_nomal</color>
+    <color name="list_summary_txt_color">#ff6b6b6b</color>
+    <color name="list_info_txt_color">#ff8a8a8a</color>
+
+    
+    <color name="lab_ads_bg">#FFDADADA</color>
+    <color name="lab_ads_bg_night">#FF555555</color>
+    
+    <color name="list_item_press">#FFEAEAEA</color>
+	<color name="list_item_press_night">#FF535353</color>
+	
+	
+	<!-- 内容页颜色 -->
+	<color name="content_sub_bg">@color/content_title_bar_bg</color>
+	<color name="content_sub_bg_night">@color/content_title_bar_bg_night</color>
+
+	<color name="content_bg">#FFF6F6F6</color>
+	<color name="content_bg_night">#FF3E3E3E</color>
+	
+	<color name="content_text_color">@color/nav_title_name</color>
+    <color name="content_text_color_night">#FFB6B6B6</color>
+    
+    <color name="content_bottom_tool_bar">#FF585858</color>
+    <color name="content_bottom_tool_bar_night">#FF585858</color>
+    
+    <!-- 频道管理颜色 -->
+    <color name="channel_mage_view_main_bg">@color/nav_sub_name_selected</color>
+    <color name="channel_mage_view_bg">#FFFFFFFF</color>
+    <color name="channel_mage_view_bg_press">#FFEAEAEA</color>
+    <color name="channel_mage_view_bg_night">#FF222222</color>
+    <color name="channel_mage_view_bg_night_press">#FF535353</color>
+    <color name="channel_mage_view_text_color">@color/nav_sub_name_nomal</color>
+    <color name="channel_mage_view_text_color_night">@color/nav_sub_name_nomal_night</color>
+    <color name="channel_mage_view_text_red">@color/nav_sub_name_selected</color> 
+    
+    <!-- dialog -->
+    <color name="dialog_bg_color">#FFFFFFFF</color>
+    <color name="dialog_title_bg_color">#FFF02B35</color>
+    <color name="dialog_cancel_btn_color">#FFC9C9C9</color>
+    <color name="dialog_title_font_color">#FFFFFFFF</color>
+    <color name="dialog_content_font_color">#FF000000</color>
+    <color name="dialog_exit_title_bg_color">#E7E7E7</color>
+    
+    <!-- textview 链接颜色 -->
+    <color name="txt_link_color">#FF018cb4</color>
+    <color name="txt_link_press_bg_color">#FFEEEEFF</color>
+    
+    <!-- H5浏览器 -->
+    <color name="webview_progress_color">#FF018cb4</color>
+    
+    <!-- 个人中心页面 -->
+    <color name="authorinfo_number_bg">#F8F8F8</color>
+    <color name="authorinfo_nicname">#018CB4</color>
+    
+    <!-- 我的面点 -->
+    <color name="coin_texttitle_color">#707070</color>
+    <color name="coin_textclassify_color">#666666</color>
+    <color name="coin_textinfo_color">#848484</color>
+    <color name="coin_textnum_blue_color">#7F9FD2</color>
+    <color name="coin_textnum_red_color">#F12B35</color>
+    <color name="coin_repair_btn_color">#3598DB</color>
+    <color name="left_coin_text_color">#989898</color>
+    
+    <!-- 我的面点 GoogleProgressBar-->
+    <color name="google_progress_bar_red">#FFC93437</color>
+    <color name="google_progress_bar_blue">#FF375BF1</color>
+    <color name="google_progress_bar_yellow">#FFF7D23E</color>
+    <color name="google_progress_bar_green">#FF34A350</color>
+</resources>
